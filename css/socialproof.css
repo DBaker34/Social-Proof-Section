@@ -152,7 +152,7 @@ h6 {
     line-height: 20px;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1000px) {
     html {
         height: auto;
         background-image: url("../images/bg-pattern-top-mobile.svg");
